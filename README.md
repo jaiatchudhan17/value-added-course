@@ -1,0 +1,1 @@
+This course is designed to provide a comprehensive introduction to the field of machine learning. It covers fundamental concepts, algorithms, and practical applications. The course is suitable for beginners and those with some prior knowledge of programming and statistics.
