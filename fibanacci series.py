@@ -3,7 +3,7 @@ a=0
 b=1
 count = 0
 if n <= 0:
-    print("check the entered value again!!!!!!")
+    print("check the entered value again")
 elif n == 1:
     print(a)
 else:
